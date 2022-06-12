@@ -4,6 +4,8 @@ import random, ast
 from re import A
 from turtle import Turtle
 
+#file "general_questions.txt" contains questions with choices in form of a dictionary.
+#The first choice is alwais correct one.
 
 asked_questions=[]
 corrects=[]
